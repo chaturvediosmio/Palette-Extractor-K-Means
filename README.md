@@ -7,3 +7,5 @@ A total of k colors act as centroids, those k colors are said to be te palette o
 This program can be used as a color picker as it outputs the most predominant colors in hex format.(especially useful for webpage designing)
 
 We can also change the color of every pixel to be the color closest to a centroid, essentially reducing the image to consist of at most k colors.
+
+P.S. It is recommended to follow the inbuilt KMeans (library) version instead of building from scratch as it is much easier to follow and code.
